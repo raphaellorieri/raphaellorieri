@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raphaellorieri
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning introductory data science course, learning python and delving into programming logic"
+- 💞️ I seek to become a complete professional in the field of data scientists, contributing to the community with relevant and challenging topics.
+- 📫 How to reach me - https://www.linkedin.com/in/raphael-lorieri/
